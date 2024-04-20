@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/pojej-in-razdeli/static/css/main.f38a3276.css",
-    "main.js": "/pojej-in-razdeli/static/js/main.c8db79d5.js",
-    "index.html": "/pojej-in-razdeli/index.html",
-    "main.f38a3276.css.map": "/pojej-in-razdeli/static/css/main.f38a3276.css.map",
-    "main.c8db79d5.js.map": "/pojej-in-razdeli/static/js/main.c8db79d5.js.map"
+    "main.css": "/pojej-razdeli/static/css/main.f38a3276.css",
+    "main.js": "/pojej-razdeli/static/js/main.c8db79d5.js",
+    "index.html": "/pojej-razdeli/index.html",
+    "main.f38a3276.css.map": "/pojej-razdeli/static/css/main.f38a3276.css.map",
+    "main.c8db79d5.js.map": "/pojej-razdeli/static/js/main.c8db79d5.js.map"
   },
   "entrypoints": [
     "static/css/main.f38a3276.css",
